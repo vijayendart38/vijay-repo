@@ -7,3 +7,5 @@ git add file1
 git commit –m “test commit”
 git log
 git push ---- This command is used to push the data from local repo to GIT repository...!
+
+git commands are added successfully.......!
